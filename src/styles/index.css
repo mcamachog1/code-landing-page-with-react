@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contenedor-boton-centrado {
+	display: flex;
+	justify-content: center;
+	border-top: 1px solid gainsboro;
+	padding: 5px;
+	/* background-color: grey; */
+	width: 100%;	
+}
+.contenedor-boton-izquierda {
+	display: flex;
+	justify-content: flex-start;
+	padding: 5px;
+	padding-bottom: 25px;
+	/* background-color: grey; */
+	width: 100%;	
+}

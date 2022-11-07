@@ -1,22 +1,18 @@
-.contenedor-boton-carta, .contenedor-titulo-carta{
+
+
+.contenedor-titulo-carta{
 	display: flex;
 	justify-content: center;
-}
-
-.contenedor-boton-carta{
-	border-top: 1px solid gainsboro;
-	padding: 5px;
-	/* background-color: grey; */
-	width: 100%;
 }
 
 .contenedor-gris-imagen {
 	width: auto;
 	height: 200px;
-	background-color: gray;
+	background-color: rgb(211, 205, 205);
 	font-family: sans-serif;
 	font-size: 20px;
 	display: flex;
 	justify-content: center;
-	align-items: center;	
+	align-items: center;
+	color: gray;	
 }
